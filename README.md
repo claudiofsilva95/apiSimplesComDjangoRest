@@ -1,2 +1,2 @@
 # apiSimplesComDjangoRest
-Uma API simples sem muitas validações
+Uma API simples de uma escola usando o framework DjangoRest.
